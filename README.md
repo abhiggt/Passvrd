@@ -2,6 +2,8 @@
 
 This Python script generates passwords based on user-defined criteria using a graphical user interface (GUI) built with Tkinter.
 
+`DEMO VIDEO ` == https://youtu.be/2CLWf0NArmo?si=bnIksampo0lB2phT
+
 ## Description
 
 The script allows users to generate passwords of varying strengths (Low, Medium, Strong) and lengths. It provides options to copy the generated password to the clipboard and save it for future use.
