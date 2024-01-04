@@ -2,7 +2,7 @@
 
 This Python script generates passwords based on user-defined criteria using a graphical user interface (GUI) built with Tkinter.
 
-`DEMO VIDEO ` == https://youtu.be/2CLWf0NArmo?si=bnIksampo0lB2phT
+`Trailer/Walkthrough` == https://youtu.be/2CLWf0NArmo?si=bnIksampo0lB2phT
 
 ## Description
 
@@ -10,13 +10,13 @@ The script allows users to generate passwords of varying strengths (Low, Medium,
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.12
 - `pyperclip` library (to copy passwords to clipboard)
 - `tkinter` library (for GUI)
 
 ## Usage
 
-1. Run the script using Python.
+1. Run the Script
 2. The GUI window appears, titled "Passvrd - Password Generator."
 3. Choose the password strength (Low, Medium, Strong) and length using radio buttons and a slider, respectively.
 4. Click the "Generate" button to create a password based on the chosen criteria.
