@@ -1,6 +1,7 @@
 # Passvrd - Password Generator & Vault
 
 This Python script generates passwords based on user-defined criteria using a graphical user interface (GUI) built with Tkinter, User can save the passwords in the Vault that only opens on correct key entered.
+![screenshot](ss.png)
 
 `Trailer/Walkthrough` == https://youtu.be/2CLWf0NArmo?si=bnIksampo0lB2phT
 
